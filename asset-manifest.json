@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/codesandbox/static/css/main.5f4f39c5.chunk.css",
-    "main.js": "/codesandbox/static/js/main.29640154.chunk.js",
-    "main.js.map": "/codesandbox/static/js/main.29640154.chunk.js.map",
-    "runtime-main.js": "/codesandbox/static/js/runtime-main.40f21621.js",
-    "runtime-main.js.map": "/codesandbox/static/js/runtime-main.40f21621.js.map",
-    "static/css/2.41dc6b5d.chunk.css": "/codesandbox/static/css/2.41dc6b5d.chunk.css",
-    "static/js/2.d65e85d9.chunk.js": "/codesandbox/static/js/2.d65e85d9.chunk.js",
-    "static/js/2.d65e85d9.chunk.js.map": "/codesandbox/static/js/2.d65e85d9.chunk.js.map",
-    "static/js/3.80a3bce0.chunk.js": "/codesandbox/static/js/3.80a3bce0.chunk.js",
-    "static/js/3.80a3bce0.chunk.js.map": "/codesandbox/static/js/3.80a3bce0.chunk.js.map",
+    "main.js": "/codesandbox/static/js/main.c93b1d94.chunk.js",
+    "main.js.map": "/codesandbox/static/js/main.c93b1d94.chunk.js.map",
+    "runtime-main.js": "/codesandbox/static/js/runtime-main.6fcfc981.js",
+    "runtime-main.js.map": "/codesandbox/static/js/runtime-main.6fcfc981.js.map",
+    "static/css/2.c1256375.chunk.css": "/codesandbox/static/css/2.c1256375.chunk.css",
+    "static/js/2.2882e642.chunk.js": "/codesandbox/static/js/2.2882e642.chunk.js",
+    "static/js/2.2882e642.chunk.js.map": "/codesandbox/static/js/2.2882e642.chunk.js.map",
+    "static/js/3.6c04b646.chunk.js": "/codesandbox/static/js/3.6c04b646.chunk.js",
+    "static/js/3.6c04b646.chunk.js.map": "/codesandbox/static/js/3.6c04b646.chunk.js.map",
     "index.html": "/codesandbox/index.html",
-    "static/css/2.41dc6b5d.chunk.css.map": "/codesandbox/static/css/2.41dc6b5d.chunk.css.map",
+    "static/css/2.c1256375.chunk.css.map": "/codesandbox/static/css/2.c1256375.chunk.css.map",
     "static/css/main.5f4f39c5.chunk.css.map": "/codesandbox/static/css/main.5f4f39c5.chunk.css.map",
-    "static/js/2.d65e85d9.chunk.js.LICENSE.txt": "/codesandbox/static/js/2.d65e85d9.chunk.js.LICENSE.txt",
+    "static/js/2.2882e642.chunk.js.LICENSE.txt": "/codesandbox/static/js/2.2882e642.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/codesandbox/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.40f21621.js",
-    "static/css/2.41dc6b5d.chunk.css",
-    "static/js/2.d65e85d9.chunk.js",
+    "static/js/runtime-main.6fcfc981.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.2882e642.chunk.js",
     "static/css/main.5f4f39c5.chunk.css",
-    "static/js/main.29640154.chunk.js"
+    "static/js/main.c93b1d94.chunk.js"
   ]
 }
